@@ -1,4 +1,5 @@
 <?php
+//Archivo muy básico para ejemplo
 
 $fileName = $_FILES["file"]["name"]; // The file name
 $fileTmp = $_FILES["file"]["tmp_name"]; // File in the PHP tmp folder
